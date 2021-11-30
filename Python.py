@@ -1,5 +1,4 @@
 #Damian Oportus
-#300265844
 
 def sequenceDesDeux(x):
      '''(list)-> bool
